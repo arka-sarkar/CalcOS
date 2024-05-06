@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57F6iClWblgeSx90spGZ/ormNn5JBa1SAHLrSQanEcUGRugU2S2AATOxfgQ1DPnYwaWSGQTVwqf19s4sVnZqEg==",
+  "dgSpecHash": "dd/ry22cxVowyVJa/AA4gvU+S1cjUokUGCZOPTu5JMN2nQUpJxC7kKbtgpkr3c+xVKHLLk0gStv5oHWq6MSXRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\CalcOS.csproj",
+  "projectFilePath": "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arami\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
     "C:\\Users\\arami\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",

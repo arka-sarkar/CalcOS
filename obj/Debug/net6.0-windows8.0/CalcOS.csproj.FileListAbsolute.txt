@@ -11,3 +11,16 @@ C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\refint\Cal
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.pdb
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\ref\CalcOS.dll
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.sourcelink.json
+C:\Users\arami\Source\Repos\CalcOS\bin\Debug\net6.0-windows8.0\CalcOS.deps.json
+C:\Users\arami\Source\Repos\CalcOS\bin\Debug\net6.0-windows8.0\CalcOS.dll
+C:\Users\arami\Source\Repos\CalcOS\bin\Debug\net6.0-windows8.0\CalcOS.pdb
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.csproj.AssemblyReference.cache
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.AssemblyInfoInputs.cache
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.AssemblyInfo.cs
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.csproj.CoreCompileInputs.cache
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.sourcelink.json
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.dll
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\refint\CalcOS.dll
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.pdb
+C:\Users\arami\Source\Repos\CalcOS\obj\Debug\net6.0-windows8.0\ref\CalcOS.dll

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Use VMware Player or Workstation to deploy and debug.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61beb3e4690f5aaf61e48cb1fc5903fc913dd1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9917b950c742dcba35e26d706ee9f520793a11ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\CalcOS.csproj": {}
+    "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\CalcOS.csproj": {
+    "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\CalcOS.csproj",
+        "projectUniqueName": "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj",
         "projectName": "CalcOS",
-        "projectPath": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\CalcOS.csproj",
+        "projectPath": "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj",
         "packagesPath": "C:\\Users\\arami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\obj\\",
+        "outputPath": "C:\\Users\\arami\\Source\\Repos\\CalcOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

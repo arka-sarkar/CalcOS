@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\",
+  "WorkspaceRootPath": "C:\\Users\\arami\\source\\repos\\CalcOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|c:\\users\\arami\\source\\repos\\calcos\\calcos\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|c:\\users\\arami\\source\\repos\\calcos\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|solutionrelative:kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Kernel.cs",
-              "DocumentMoniker": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\arami\\source\\repos\\CalcOS\\Kernel.cs",
               "RelativeDocumentMoniker": "Kernel.cs",
-              "ToolTip": "C:\\Users\\arami\\source\\repos\\CalcOS\\CalcOS\\Kernel.cs",
+              "ToolTip": "C:\\Users\\arami\\source\\repos\\CalcOS\\Kernel.cs",
               "RelativeToolTip": "Kernel.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAeAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowF8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T16:16:49.805Z",
               "EditorCaption": ""

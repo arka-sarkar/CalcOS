@@ -98,11 +98,18 @@ namespace CalcOS
         }
         public void BeepCmd()
         {
-            Console.Write("Enter the frequency: ");
-            int freq = Int32.Parse(Console.ReadLine());
-            Console.Write("Enter the duration: ");
-            int duration = Int32.Parse(Console.ReadLine());
-            Console.Beep(freq, duration);
+            try
+            {
+                Console.Write("Enter the frequency: ");
+                int freq = Int32.Parse(Console.ReadLine());
+                Console.Write("Enter the duration: ");
+                int duration = Int32.Parse(Console.ReadLine());
+                Console.Beep(freq, duration);
+            } catch
+            {
+                Console.WriteLine("Frequency out of range.");
+            }
+            
         }
         public void ShutDownCmd() {
             Console.Write("Shutting down in ");
