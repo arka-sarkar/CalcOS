@@ -27,9 +27,9 @@ namespace CalcOS
                 case "clear": ClearCmd(); break;
                 case "calc": CalcCmd(); break;
                 case "beep": BeepCmd(); break;
-                case "poweroff": ShutDownCmd(); break;
+                case "poweroff":
                 case "shutdown": ShutDownCmd(); break;
-                case "reboot": RestartCmd(); break;
+                case "reboot":
                 case "restart": RestartCmd(); break;
                 case "": break;
                 default: BadCommand(); break;

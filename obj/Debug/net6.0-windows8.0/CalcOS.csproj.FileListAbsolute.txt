@@ -10,3 +10,4 @@ C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.dll
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\refint\CalcOS.dll
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.pdb
 C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\ref\CalcOS.dll
+C:\Users\arami\source\repos\CalcOS\CalcOS\obj\Debug\net6.0-windows8.0\CalcOS.sourcelink.json
