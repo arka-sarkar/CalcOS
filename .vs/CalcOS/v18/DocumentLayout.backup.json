@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|c:\\users\\arkas\\source\\repos\\arka-sarkar\\calcos\\calcos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|solutionrelative:calcos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|c:\\users\\arkas\\source\\repos\\arka-sarkar\\calcos\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|solutionrelative:kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|c:\\users\\arkas\\source\\repos\\arka-sarkar\\calcos\\calcos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{947F9CC6-98A1-4216-9BFA-16F3A348CCD9}|CalcOS.csproj|solutionrelative:calcos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcOS",
+              "DocumentMoniker": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\CalcOS.csproj",
+              "RelativeDocumentMoniker": "CalcOS.csproj",
+              "ToolTip": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\CalcOS.csproj",
+              "RelativeToolTip": "CalcOS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T16:36:22.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcOS.csproj",
+              "DocumentMoniker": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\CalcOS.csproj",
+              "RelativeDocumentMoniker": "CalcOS.csproj",
+              "ToolTip": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\CalcOS.csproj",
+              "RelativeToolTip": "CalcOS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T04:52:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\Kernel.cs",
+              "RelativeDocumentMoniker": "Kernel.cs",
+              "ToolTip": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\Kernel.cs",
+              "RelativeToolTip": "Kernel.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:50:00.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

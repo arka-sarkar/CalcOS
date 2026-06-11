@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dd/ry22cxVowyVJa/AA4gvU+S1cjUokUGCZOPTu5JMN2nQUpJxC7kKbtgpkr3c+xVKHLLk0gStv5oHWq6MSXRA==",
+  "dgSpecHash": "r7T7I2Cl0Qo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arami\\Source\\Repos\\CalcOS\\CalcOS.csproj",
+  "projectFilePath": "C:\\Users\\arkas\\source\\repos\\arka-sarkar\\CalcOS\\CalcOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
-    "C:\\Users\\arami\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\arkas\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
   ],
   "logs": []
 }

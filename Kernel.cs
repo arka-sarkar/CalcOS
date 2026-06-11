@@ -9,7 +9,7 @@ namespace CalcOS
 
         protected override void BeforeRun()
         {
-            Console.Clear();
+            //Console.Clear();
             Console.WriteLine("Welcome to CalcOS.");
             Console.WriteLine("Type \"help\" to get list of available commands.");
         }
@@ -24,6 +24,7 @@ namespace CalcOS
                 case "help": HelpCmd(); break;
                 case "version": VersionCmd(); break;
                 case "about": AboutCmd(); break;
+                case "cls":
                 case "clear": ClearCmd(); break;
                 case "calc": CalcCmd(); break;
                 case "beep": BeepCmd(); break;
@@ -41,7 +42,7 @@ namespace CalcOS
             Console.WriteLine("1. help - To see a list of available commands.");
             Console.WriteLine("2. version - To get the version of the OS.");
             Console.WriteLine("3. about - To get info about the OS.");
-            Console.WriteLine("4. clear - Clears the screen.");
+            Console.WriteLine("4. clear (or) cls - Clears the screen.");
             Console.WriteLine("5. calc - The calculator.");
             Console.WriteLine("6. beep - Beeps at a given frequency for a certain duration.");
             Console.WriteLine("7. shutdown (or) poweroff - Shuts down the OS.");
@@ -63,6 +64,7 @@ namespace CalcOS
                 Console.WriteLine("Welcome to Calculator.");
                 Console.WriteLine("It should be of the form:- a <op> b. Use + for addition, - for subtraction, X for multiplication,");
                 Console.WriteLine("/ for division, // for floor division, % for remainder and ^ for power.");
+                Console.WriteLine("NOTE: When using % for remainder, the input values must be integers.\n");
                 Console.Write("Enter the problem: ");
                 String[] input = Console.ReadLine().Split(' ');
                 double val1 = Double.Parse(input[0]);
@@ -77,7 +79,7 @@ namespace CalcOS
                     case "X": res = val1 * val2; break;
                     case "/": res = val1 / val2; break;
                     case "//": res = (int)(val1 / val2); break;
-                    case "%": res = val1 % val2; break;
+                    case "%": res = ((int)val1) % ((int)val2); break;
                     case "^": res = Math.Pow(val1, val2); break;
                     default: throw new FormatException();
                 }
